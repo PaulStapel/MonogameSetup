@@ -10,3 +10,15 @@
 /Users/paul/3. Programmeren/GameDev/FowlPlay/Tools/obj/Debug/net8.0/refint/Tools.dll
 /Users/paul/3. Programmeren/GameDev/FowlPlay/Tools/obj/Debug/net8.0/Tools.pdb
 /Users/paul/3. Programmeren/GameDev/FowlPlay/Tools/obj/Debug/net8.0/ref/Tools.dll
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/bin/Debug/net8.0/Tools.deps.json
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/bin/Debug/net8.0/Tools.dll
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/bin/Debug/net8.0/Tools.pdb
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/Tools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/Tools.AssemblyInfoInputs.cache
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/Tools.AssemblyInfo.cs
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/Tools.csproj.CoreCompileInputs.cache
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/Tools.sourcelink.json
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/Tools.dll
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/refint/Tools.dll
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/Tools.pdb
+/Users/paul/3. Programmeren/GameDev/MonogameSetup/Tools/obj/Debug/net8.0/ref/Tools.dll

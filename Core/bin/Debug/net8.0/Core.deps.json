@@ -10,7 +10,8 @@
         "dependencies": {
           "Engine": "1.0.0",
           "MonoGame.Content.Builder.Task": "3.8.4",
-          "MonoGame.Framework.DesktopGL": "3.8.4"
+          "MonoGame.Framework.DesktopGL": "3.8.4",
+          "Tools": "1.0.0"
         },
         "runtime": {
           "Core.dll": {}
@@ -124,6 +125,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Tools/1.0.0": {
+        "runtime": {
+          "Tools.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -183,6 +192,11 @@
       "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
     },
     "Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tools/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
