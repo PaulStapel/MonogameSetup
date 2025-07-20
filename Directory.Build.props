@@ -1,0 +1,19 @@
+<Project>
+  <PropertyGroup>
+    <!-- Set intermediate (obj) output path -->
+    <BaseIntermediateOutputPath>../Build/Intermediate/$(MSBuildProjectName)/</BaseIntermediateOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)'=='Debug'">
+    <!-- Final compiled output (bin) path for Debug -->
+    <OutputPath>../Build/$(MSBuildProjectName)/Debug/</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)'=='Release'">
+    <!-- Final compiled output (bin) path for Release -->
+    <OutputPath>../Build/$(MSBuildProjectName)/Release/</OutputPath>
+  </PropertyGroup>
+
+  <!-- Add extra Conditions along the way if necessary -->
+</Project>
+
